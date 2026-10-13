@@ -1,0 +1,9 @@
+{
+  "name": "signalforge",
+  "main": "worker.js",
+  "compatibility_date": "2026-10-06",
+  "assets": {
+    "directory": ".",
+    "binding": "ASSETS"
+  }
+}
